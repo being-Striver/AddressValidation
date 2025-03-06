@@ -1,0 +1,15 @@
+{
+    'postcode': 'BT10 0GY', 
+    'post_town': 'Belfast',
+    'dependant_locality': 'Finaghy',
+    'thoroughfare': 'Upper Lisburn Road',
+    'building_number': '53', 
+        'delivery_point_suffix': '1A',
+        'line_1': '53 Upper Lisburn Road', 
+        'line_2': 'Finaghy', 
+        'line_3': '',  
+        'country': 'Northern Ireland', 
+        'country_iso': 'GBR',
+            'country_iso_2': 'GB', 
+            'county_code': ''
+        }

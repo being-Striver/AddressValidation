@@ -1,0 +1,5 @@
+FailureDate	EnterpriseCode	SalesOrderNo	PurchaseOrderNo	EDD	ErrorCode	ErrorMsg	CarrierServiceCode	addressLine1	addressLine2	additionalName	city	Country	zipCode	phoneNumber	contactName		
+1/17/2025 8:44	NIKEEUROPE	C01475564170	EO1609490343	2025-01-20T21:59:00+00:00	IncorrectAddress	No zones available for destination	STD	SIDRA EL GAITERO. LA ESPUNCIA SN			VILLAVICIOSA	ES	33318	628985759	MARIA CARDIN		
+1/17/2025 9:53	NIKEEUROPE	C01475571606	EO1609496835	2025-01-21T21:59:00+00:00	IncorrectAddress	No zones available for destination	STD	1 Leinster Avenue			Dublin	IE	DUBLIN 3	876812265	Cathy Steenson		
+1/17/2025 11:20	NIKEEUROPE	C01475575249	EO1609504935	2025-01-21T21:59:00+00:00	FailedCarrierRouting	There are no matching candidates	CPG	160 c SPANDAUER STRAÃƒÅ¸E		NKD Deutschland GmbH	FALKENSEE	DE	14612	17680664665	Dominik Sasse	
+1/17/2025 10:52	NIKEEUROPE	C01475575664	EO1609502460	2025-01-22T21:59:00+00:00	IncorrectAddress	No zones available for destination	STD	20 Rue Belle-Vue			Leudelange	LU	L-3345	661876244	NoÃƒÂ«l Bache		
